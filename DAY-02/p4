@@ -12,5 +12,12 @@
         -mutable
         -{Key: value}
 """
-
-cart = ["Phone", "book" , 10, False]
+nums = [1,2,3,4]
+cart = ["Phone", "book" , 10, False, None, {1:"a"}, nums]
+print(cart)
+cart[0] = "AC"
+print(cart)
+print(type(cart))
+marks = (66, 76, 87, 98)
+print(marks)
+print(type(marks))
