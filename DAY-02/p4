@@ -1,0 +1,16 @@
+# sequential datatypes 
+
+""""
+    1.List - []
+        -mutable
+        - any datatype is supported
+    2.Tuple - ()
+        - immutable
+    3.Set - {}
+        - stores only unique value
+    4.Dictonary 
+        -mutable
+        -{Key: value}
+"""
+
+cart = ["Phone", "book" , 10, False]
